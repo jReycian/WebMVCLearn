@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplicationLearn
 build_property.RootNamespace = WebApplicationLearn
-build_property.ProjectDir = D:\Nestor\MVCDotnet\WebApplicationLearn\WebApplicationLearn\
+build_property.ProjectDir = C:\Users\MinebeaMitsumi\Desktop\MVCLearn\WebMVCLearn\WebApplicationLearn\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Nestor\MVCDotnet\WebApplicationLearn\WebApplicationLearn
+build_property.MSBuildProjectDirectory = C:\Users\MinebeaMitsumi\Desktop\MVCLearn\WebMVCLearn\WebApplicationLearn
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/HelloWorld/Index.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/HelloWorld/Welcome.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Home/Index.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Home/Privacy.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Movies/Create.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Movies/Delete.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Movies/Details.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Movies/Edit.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Movies/Index.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Shared/Error.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/_ViewImports.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/_ViewStart.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Nestor/MVCDotnet/WebApplicationLearn/WebApplicationLearn/Views/Shared/_Layout.cshtml]
+[C:/Users/MinebeaMitsumi/Desktop/MVCLearn/WebMVCLearn/WebApplicationLearn/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-26b387v1t6

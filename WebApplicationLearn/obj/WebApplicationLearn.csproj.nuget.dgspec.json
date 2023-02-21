@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nestor\\MVCDotnet\\WebApplicationLearn\\WebApplicationLearn\\WebApplicationLearn.csproj": {}
+    "C:\\Users\\MinebeaMitsumi\\Desktop\\MVCLearn\\WebMVCLearn\\WebApplicationLearn\\WebApplicationLearn.csproj": {}
   },
   "projects": {
-    "D:\\Nestor\\MVCDotnet\\WebApplicationLearn\\WebApplicationLearn\\WebApplicationLearn.csproj": {
+    "C:\\Users\\MinebeaMitsumi\\Desktop\\MVCLearn\\WebMVCLearn\\WebApplicationLearn\\WebApplicationLearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nestor\\MVCDotnet\\WebApplicationLearn\\WebApplicationLearn\\WebApplicationLearn.csproj",
+        "projectUniqueName": "C:\\Users\\MinebeaMitsumi\\Desktop\\MVCLearn\\WebMVCLearn\\WebApplicationLearn\\WebApplicationLearn.csproj",
         "projectName": "WebApplicationLearn",
-        "projectPath": "D:\\Nestor\\MVCDotnet\\WebApplicationLearn\\WebApplicationLearn\\WebApplicationLearn.csproj",
+        "projectPath": "C:\\Users\\MinebeaMitsumi\\Desktop\\MVCLearn\\WebMVCLearn\\WebApplicationLearn\\WebApplicationLearn.csproj",
         "packagesPath": "C:\\Users\\MinebeaMitsumi\\.nuget\\packages\\",
-        "outputPath": "D:\\Nestor\\MVCDotnet\\WebApplicationLearn\\WebApplicationLearn\\obj\\",
+        "outputPath": "C:\\Users\\MinebeaMitsumi\\Desktop\\MVCLearn\\WebMVCLearn\\WebApplicationLearn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

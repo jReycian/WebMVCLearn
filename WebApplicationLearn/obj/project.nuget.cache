@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDjReJKfgqxaBq8sk+tsTHyIfT/6BvSN/1Tt8oNYTgnBOdjPxmGAXi9OeCacP7A3nk6Y9BENXxZ7zazUum/MwA==",
+  "dgSpecHash": "7o6IOCEEsTslw4cBvSPczRoLKIkdKNk47KyhRGvk+lR6Gv1eNEkjR5JNZo74lU7108WAcLqNkeoEImrzJKFNfg==",
   "success": true,
-  "projectFilePath": "D:\\Nestor\\MVCDotnet\\WebApplicationLearn\\WebApplicationLearn\\WebApplicationLearn.csproj",
+  "projectFilePath": "C:\\Users\\MinebeaMitsumi\\Desktop\\MVCLearn\\WebMVCLearn\\WebApplicationLearn\\WebApplicationLearn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MinebeaMitsumi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\MinebeaMitsumi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
